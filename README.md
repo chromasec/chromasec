@@ -6,7 +6,7 @@
 |_______ (____  /__|_|  /___  /\____ |(____  /__/____  > |__|  
         \/    \/      \/    \/      \/     \/        \/
 ```
----
+
 # 👋 • Heya! I am Lambdaist!
 - 🧾 I love programming!
 - 🎨 Same goes for designing!
