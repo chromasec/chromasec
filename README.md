@@ -1,9 +1,8 @@
-# 👋 • Heya! I am ChromaSec!
-- 🧾 I love programming!
-- 🎨 Same goes for designing!
-- 💥 And im a decent reverse engineer
-
-# ➕ • Languages i know.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
---
-### 🌟 • Don't forget to leave a star if you like what i do!
+*I find no peace, and all my war is done.
+I fear and hope. I burn and freeze like ice.
+I fly above the wind, yet can I not arise;
+And nought I have, and all the world I season.
+That loseth nor locketh holdeth me in prison
+And holdeth me not – yet can I scape no wise –
+Nor letteth me live nor die at my device,
+And yet of death it giveth me occasion …*
